@@ -1,3 +1,28 @@
+# About Me
+My name is Tomas Moucha and I am passionate about front-end development.
+
+I am a beginner developer with an interest in creating intuitive and user-friendly web applications. My hobbies include writing front-end code, as well as electronics, which has been a part of my life since childhood.
+
+## Technical Skills
+- **Programming languages and technologies:** HTML, CSS, JavaScript, TypeScript, jQuery
+- **CSS frameworks:** SCSS, Sass, Tailwind CSS
+
+## Projects
+I am currently working on small projects and participating in courses to improve my skills.
+
+## Contact
+If you have questions or want to collaborate, you can reach me at tomasmoucha.web@gmail.com. I am based in the Czech Republic.
+
+## Current Courses
+- [Frontend Mentor](https://www.frontendmentor.io/profile/Tomas-1979)
+- [Engeto - Front-end Developer Academy](https://engeto.cz/webova-akademie/)
+
+## Conclusion
+I am open to new challenges and collaborations. If you have any ideas or questions, feel free to contact me. I am eager to learn new things and develop my skills in front-end development.
+
+---
+---
+
 # O mně
 Jmenuji se Tomáš Moucha a jsem nadšenec do front-end vývoje.
 
